@@ -1,4 +1,4 @@
-gonative-android
+Android App
 ================
 
 This is the native Android code used by https://gonative.io/
